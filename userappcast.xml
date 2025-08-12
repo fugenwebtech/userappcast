@@ -14,7 +14,13 @@
     <item>
         <title>CivilBook v7.1.0 (Android)</title>
         <description>
-          What's New: Performance improvements for faster app loading • Fixed booking confirmation delay issue • Enhanced notifications for real-time updates • General bug fixes and stability improvements.
+          <p><strong>What's New:</strong></p>
+          <ul>
+            <li>🚀 Faster app loading</li>
+            <li>🐛 Fixed booking delays</li>
+            <li>🔔 Better notifications</li>
+            <li>🛠 Bug fixes & stability</li>
+          </ul>
         </description>
         <pubDate>Mon, 12 Aug 2025 10:00:00 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.civilbook.civilbookuser"
@@ -28,7 +34,13 @@
     <item>
         <title>CivilBook v1.0.0 (iOS)</title>
         <description>
-          What's New: First official iOS release • Booking system with real-time availability • In-app chat with service providers • Secure payments &amp; wallet integration.
+          <p><strong>What's New:</strong></p>
+          <ul>
+            <li>🎉 First iOS release</li>
+            <li>📅 Real-time booking</li>
+            <li>💬 In-app chat</li>
+            <li>🔒 Secure payments</li>
+          </ul>
         </description>
         <pubDate>Mon, 12 Aug 2025 10:00:00 +0000</pubDate>
         <enclosure url="https://apps.apple.com/app/civilbook/id1234567890"
