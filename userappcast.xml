@@ -8,24 +8,23 @@
     </description>
     <language>en</language>
     <link>https://civilbook.in</link>
-    <lastBuildDate>Mon, 12 Aug 2025 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 10:00:00 +0000</lastBuildDate>
     <generator>CivilBook Update Feed Generator</generator>
     <!-- Android version -->
     <item>
-        <title>CivilBook v7.1.0 (Android)</title>
+        <title>CivilBook v8.1.0 (Android)</title>
         <description>
           <p><strong>What's New:</strong></p>
           <ul>
             <li>🚀 Faster app loading</li>
-            <li>🐛 Fixed booking delays</li>
             <li>🔔 Better notifications</li>
             <li>🛠 Bug fixes & stability</li>
           </ul>
         </description>
-        <pubDate>Mon, 12 Aug 2025 10:00:00 +0000</pubDate>
+        <pubDate>Fri, 22 Aug 2025 10:00:00 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.civilbook.civilbookuser"
-                   sparkle:version="7.1.0"
-                   sparkle:shortVersionString="7.1.0"
+                   sparkle:version="8.1.0"
+                   sparkle:shortVersionString="8.1.0"
                    sparkle:os="android" />
         <sparkle:minimumSystemVersion>5.0</sparkle:minimumSystemVersion>
         <sparkle:releaseNotesLink>https://civilbook.in/release-notes/android-7-1-0</sparkle:releaseNotesLink>
