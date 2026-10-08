@@ -8,23 +8,23 @@
     </description>
     <language>en</language>
     <link>https://civilbook.in</link>
-    <lastBuildDate>Wed, 16 Sep 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 10:00:00 +0000</lastBuildDate>
     <generator>CivilBook Update Feed Generator</generator>
     <!-- Android version -->
     <item>
-        <title>CivilBook v12.9.2 (Android)</title>
+        <title>CivilBook v12.11.1 (Android)</title>
         <description>
           <p><strong>What's New:</strong></p>
           <ul>
-            <li>🚀 Faster app loading</li>
-            <li>🔔 Better notifications</li>
-            <li>🛠 Bug fixes & stability</li>
+            <li>Improved In-App call quality</li>
+            <li>Improve bugs & fixes</li>
+            <li>Improve app performance</li>
           </ul>
         </description>
-        <pubDate>Thr, 13 Aug 2026 10:00:00 +0000</pubDate>
+        <pubDate>Wed, 07 Oct 2026 10:00:00 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.civilbook.civilbookuser"
-                   sparkle:version="12.9.2"
-                   sparkle:shortVersionString="12.9.2"
+                   sparkle:version="12.11.1"
+                   sparkle:shortVersionString="12.11.1"
                    sparkle:os="android" />
         <sparkle:minimumSystemVersion>5.0</sparkle:minimumSystemVersion>
         <sparkle:releaseNotesLink>https://civilbook.in/release-notes/android-7-1-0</sparkle:releaseNotesLink>
